@@ -1,0 +1,12 @@
+fills.csv
+test.csv
+
+# Editors
+.vscode/
+.idea/
+
+# Mac/OSX
+.DS_Store
+
+# Windows
+Thumbs.db
