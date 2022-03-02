@@ -13,4 +13,4 @@ Calculates the total fees for a user's fills over a given time period.
 3. Profit ?? (hopefully)
 
 
-![logo](./docs/readme_example.png)
+![logo](https://raw.githubusercontent.com/nkrebs13/CBP-Fee-Calc/master/.docs/readme_example.png)
