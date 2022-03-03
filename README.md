@@ -14,3 +14,9 @@ Calculates the total fees for a user's fills over a given time period.
 
 
 ![logo](https://raw.githubusercontent.com/nkrebs13/CBP-Fee-Calc/master/.docs/readme_example.png)
+
+
+#### Roadmap
+- How much these fees are worth now per the current evaluations
+- How much these fees were worth at the time of the trade
+- Fee data analytics
